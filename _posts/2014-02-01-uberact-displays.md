@@ -1,0 +1,9 @@
+---
+layout: default
+---
+
+Uberact Ltd. Display technologies
+---------------
+Technology consultation for Uberact Ltd.. Capability, cost assessment and hardware preparation of the display technologies used in a wall-sized office-floor display for Vanguard International.
+
+![vanguard display](/images/vanguard2.jpg)

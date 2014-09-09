@@ -1,5 +1,5 @@
 ---
-#default yml
+layout: default
 ---
 
 Quantum technologies research

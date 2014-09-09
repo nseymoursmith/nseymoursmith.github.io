@@ -1,5 +1,5 @@
 ---
-#Using all site defaults for YAML
+layout: default
 ---
 <!doctype html>
 <html>
