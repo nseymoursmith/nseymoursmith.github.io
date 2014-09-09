@@ -11,3 +11,5 @@ defaults:
     scope:
       path: "" #all files in project
     values:
+
+url: localhost:4000
