@@ -1,10 +1,13 @@
+---
+title: Electronic hardware and digital interfaces
+author: Nic Seymour-Smith
+twitter: https://twitter.com/nseymoursmith
+linkedin: http://www.linkedin.com/pub/nicolas-seymour-smith/35/617/432
+github: https://github.com/nseymoursmith
+---
+
 defaults:
   -
     scope:
       path: "" #all files in project
     values:
-      title: Electronic hardware and digital interfaces
-      author: Nic Seymour-Smith
-      twitter: https://twitter.com/nseymoursmith
-      linkedin: http://www.linkedin.com/pub/nicolas-seymour-smith/35/617/432
-      github: https://github.com/nseymoursmith
