@@ -33,7 +33,7 @@ h3, h4, h5, h6 {
 }
 
 a {
-  color:#39c;
+  color:#28A;
   font-weight:400;
   text-decoration:none;
 }
@@ -174,7 +174,7 @@ small {
 
 hr {
   border:0;
-  background:#e5e5e5;
+  background:#444;
   height:1px;
   margin:0 0 20px;
 }
