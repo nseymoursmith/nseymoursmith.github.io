@@ -11,10 +11,11 @@ interaction technologies for unique events and applications.
 
 ### Technologies:
 I have extensive experience designing electronics and hardware for
-sensor and feedback applications with PC interfaces or stand-alone
-automated modules with microcontroller-processing using a range of
-chips (PIC, dsPIC, ATmega, Arduino), and communication protocols such
-as SPI, I2C, Bluetooth, and NFC/RFID.
+sensor and feedback applications with PC interfaces written in Python,
+C++ and Java, or stand-alone automated modules with
+microcontroller-processing using a range of chips (PIC, dsPIC, ATmega,
+Arduino), and communication protocols such as SPI, I2C, Bluetooth, and
+NFC/RFID.
 
 ---
 
