@@ -1,44 +1,18 @@
----
-#Using all site defaults for YAML
----
-<!doctype html>
+<!DOCTYPE html>
 <html>
-  <head>
-    <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="chrome=1">
-    <title>{{site.title}} by {{site.author}}</title>
 
-    <link rel="stylesheet" href="/stylesheets/styles.css">
-    <link rel="stylesheet" href="/stylesheets/pygment_trac.css">
-    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
-    <!--[if lt IE 9]>
-    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
-    <![endif]-->
-  </head>
-  <body bgcolor = "#EDEBBD">
-    <div class="wrapper">
-      <header>
-        <h2>{{site.author}}</h2>
-        <p>{{site.title}}</p>
-        <p>e-mail: <a href="mailto:nseymoursmith@gmail.com">nseymoursmith@gmail.com</a></p>
-	
-	<img src="/images/TXN_3232.jpg" alt="c Emily Paxton" width="250" height="250">
+  {% include head.html %}
 
-        <p><a href="{{site.twitter}}">Twitter</a></p>
-        <p><a href="{{site.linkedin}}">LinkedIn</a></p>
-        <p class="view"><a href="{{site.github}}">View My GitHub Profile</a></p>
 
-      </header>
-      <section>
-	{{content}}
-	<p></p>
-	<hr>
-	<h2>
-	  <a name="contact-me" class="anchor" href="#contact-me"><span class="octicon octicon-link"></span></a>Contact me:</h2>
+    <body id="page-top" class="index">
 
-	<p>If you're interested in getting in touch about work or consultation, drop me an e-mail at <a href="mailto:nseymoursmith@gmail.com">nseymoursmith@gmail.com</a>. Thanks!</p>
-      </section>
-    </div>
-    <script src="javascripts/scale.fix.js"></script>
-  </body>
+    {% include header.html %}
+    {% include portfolio_grid.html %}
+    {% include about.html %}
+    {% include contact.html %}
+    {% include footer.html %}
+    {% include modals.html %}
+    {% include js.html %}
+
+    </body>
 </html>

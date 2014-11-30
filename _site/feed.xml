@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Freelancer</title>
+    <description>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</description>
+    <link>/</link>
+    <atom:link href="/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Sun, 30 Nov 2014 20:07:43 +0000</pubDate>
+    <lastBuildDate>Sun, 30 Nov 2014 20:07:43 +0000</lastBuildDate>
+    <generator>Jekyll v2.3.0</generator>
+    
+      <item>
+        <title>Vanguard Displays</title>
+        <description>
+</description>
+        <pubDate>Sat, 01 Feb 2014 00:00:00 +0000</pubDate>
+        <link>/hardware/2014/02/01/vanguard-displays/</link>
+        <guid isPermaLink="true">/hardware/2014/02/01/vanguard-displays/</guid>
+        
+        
+        <category>hardware</category>
+        
+      </item>
+    
+      <item>
+        <title>Photobot Booths</title>
+        <description>
+</description>
+        <pubDate>Thu, 03 Oct 2013 00:00:00 +0100</pubDate>
+        <link>/hardware%20interfaces/2013/10/03/photobot-booths/</link>
+        <guid isPermaLink="true">/hardware%20interfaces/2013/10/03/photobot-booths/</guid>
+        
+        
+        <category>hardware interfaces</category>
+        
+      </item>
+    
+      <item>
+        <title>Hack Hd</title>
+        <description>
+</description>
+        <pubDate>Wed, 02 Oct 2013 00:00:00 +0100</pubDate>
+        <link>/hardware%20interfaces/2013/10/02/hack-HD/</link>
+        <guid isPermaLink="true">/hardware%20interfaces/2013/10/02/hack-HD/</guid>
+        
+        
+        <category>hardware interfaces</category>
+        
+      </item>
+    
+      <item>
+        <title>Quantum Technologies Research</title>
+        <description>
+</description>
+        <pubDate>Tue, 01 Oct 2013 00:00:00 +0100</pubDate>
+        <link>/quantum%20technologies%20research/2013/10/01/quantum-technologies-research/</link>
+        <guid isPermaLink="true">/quantum%20technologies%20research/2013/10/01/quantum-technologies-research/</guid>
+        
+        
+        <category>quantum technologies research</category>
+        
+      </item>
+    
+      <item>
+        <title>Quantum Chemistry</title>
+        <description>
+</description>
+        <pubDate>Tue, 01 Oct 2013 00:00:00 +0100</pubDate>
+        <link>/quantum%20technologies%20research/2013/10/01/quantum-chemistry/</link>
+        <guid isPermaLink="true">/quantum%20technologies%20research/2013/10/01/quantum-chemistry/</guid>
+        
+        
+        <category>quantum technologies research</category>
+        
+      </item>
+    
+      <item>
+        <title>Novartis Promotional Technology</title>
+        <description>
+</description>
+        <pubDate>Thu, 01 Aug 2013 00:00:00 +0100</pubDate>
+        <link>/hardware%20interfaces/2013/08/01/novartis-promotional-technology/</link>
+        <guid isPermaLink="true">/hardware%20interfaces/2013/08/01/novartis-promotional-technology/</guid>
+        
+        
+        <category>hardware interfaces</category>
+        
+      </item>
+    
+      <item>
+        <title>Musical Doodles</title>
+        <description>
+</description>
+        <pubDate>Wed, 01 May 2013 00:00:00 +0100</pubDate>
+        <link>/festivals,%20events,%20workshops,%20hardware/2013/05/01/musical-doodles/</link>
+        <guid isPermaLink="true">/festivals,%20events,%20workshops,%20hardware/2013/05/01/musical-doodles/</guid>
+        
+        
+        <category>festivals, events, workshops, hardware</category>
+        
+      </item>
+    
+      <item>
+        <title>Single Ion Photonics</title>
+        <description>
+</description>
+        <pubDate>Sat, 01 Oct 2011 00:00:00 +0100</pubDate>
+        <link>/quantum%20technologies%20research/2011/10/01/single-ion-photonics/</link>
+        <guid isPermaLink="true">/quantum%20technologies%20research/2011/10/01/single-ion-photonics/</guid>
+        
+        
+        <category>quantum technologies research</category>
+        
+      </item>
+    
+  </channel>
+</rss>
