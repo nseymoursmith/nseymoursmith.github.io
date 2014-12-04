@@ -1,6 +1,7 @@
 ---
 layout: default
 modal-id: 9
+published: false
 date: 2013-08-01
 img: novartis.gif
 alt: image-alt
