@@ -24,15 +24,15 @@ social:
     url: http://www.linkedin.com/pub/nicolas-seymour-smith/35/617/432
   - title: github
     url: http://github.com/nseymoursmith
-  - title: e-mail
+  - title: send
     url: mailto:nseymoursmith@gmail.com
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: Boiler Room Art Studios
-  - line: Embassy Court
+  - line: 94 Maresfield Road
   - line: Brighton
-  - line: BN1 2PX
+  - line: East Sussex
+  - line: BN2 5ER
   
 # Credits content
 credits: 'Freelance is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
