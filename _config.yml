@@ -8,11 +8,12 @@ color:
   primary: CCCCCC #80B3FF
   secondary: 2c3e50 #FD6E8A
   secondary-dark: 233140 #A2122F
+  link: 838190 #838190
   
 # Footer settings
 footer:
   copyright: N. Seymour-Smith
-  location: Brighton, UK
+  location: Contact 
   social: Around the Web
   credits: Credits
 
