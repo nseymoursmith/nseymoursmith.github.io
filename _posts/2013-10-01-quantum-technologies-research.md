@@ -2,7 +2,7 @@
 layout: default
 modal-id: 3
 date: 2013-10-01
-img: spec.gif
+img: spec.jpg
 alt: image-alt
 project-date: Until October 2013
 client:  <a href="http://itcm-sussex.com">ITCM research group (University of Sussex)</a>

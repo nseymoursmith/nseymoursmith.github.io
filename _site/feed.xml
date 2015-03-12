@@ -5,17 +5,30 @@
     <description>Electronic hardware, digital interfaces, technology education and workshops</description>
     <link>/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Sun, 07 Dec 2014 21:15:32 +0000</pubDate>
-    <lastBuildDate>Sun, 07 Dec 2014 21:15:32 +0000</lastBuildDate>
+    <pubDate>Thu, 12 Mar 2015 12:01:04 +0000</pubDate>
+    <lastBuildDate>Thu, 12 Mar 2015 12:01:04 +0000</lastBuildDate>
     <generator>Jekyll v2.3.0</generator>
     
       <item>
-        <title>Helux</title>
+        <title>Correspondence</title>
+        <description>
+</description>
+        <pubDate>Thu, 05 Feb 2015 00:00:00 +0000</pubDate>
+        <link>/organisation,%20production,%20logistics./2015/02/05/correspondence/</link>
+        <guid isPermaLink="true">/organisation,%20production,%20logistics./2015/02/05/correspondence/</guid>
+        
+        
+        <category>organisation, production, logistics.</category>
+        
+      </item>
+    
+      <item>
+        <title>Chromograph</title>
         <description>
 </description>
         <pubDate>Tue, 28 Oct 2014 00:00:00 +0000</pubDate>
-        <link>/hardware%20development/2014/10/28/helux/</link>
-        <guid isPermaLink="true">/hardware%20development/2014/10/28/helux/</guid>
+        <link>/hardware%20development/2014/10/28/chromograph/</link>
+        <guid isPermaLink="true">/hardware%20development/2014/10/28/chromograph/</guid>
         
         
         <category>hardware development</category>
@@ -120,19 +133,6 @@
         <pubDate>Tue, 01 Oct 2013 00:00:00 +0100</pubDate>
         <link>/quantum%20technologies%20research/2013/10/01/quantum-technologies-research/</link>
         <guid isPermaLink="true">/quantum%20technologies%20research/2013/10/01/quantum-technologies-research/</guid>
-        
-        
-        <category>quantum technologies research</category>
-        
-      </item>
-    
-      <item>
-        <title>Quantum Chemistry</title>
-        <description>
-</description>
-        <pubDate>Tue, 01 Oct 2013 00:00:00 +0100</pubDate>
-        <link>/quantum%20technologies%20research/2013/10/01/quantum-chemistry/</link>
-        <guid isPermaLink="true">/quantum%20technologies%20research/2013/10/01/quantum-chemistry/</guid>
         
         
         <category>quantum technologies research</category>
