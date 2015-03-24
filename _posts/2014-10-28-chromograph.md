@@ -8,6 +8,6 @@ project-date: November 2014
 client: Chromograph
 category: Hardware development
 
-description: Collaboration with Gregory Lucas and Benjamin Newland to create personalised physical displays of your DNA. Vogue shoot will be published around February 2015.
+description: Collaboration with Gregory Lucas and Benjamin Newland to create personalised physical displays of your DNA. 
 
 ---
