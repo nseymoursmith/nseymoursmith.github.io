@@ -1,0 +1,12 @@
+---
+layout: default
+modal-id: 15
+date: 2015-05-01
+img: hendricks.jpg
+alt: image-alt
+project-date: June 2015
+client: <a href="https://www.hendricksexcursion.co.uk"/>Hendrick's</a>, <a href="tenhertz.com"</a>TenHertz<a>
+category: Programming, electronics, python, VVVV
+description: Programming an interface between EEG apparatus (measuring the frequencies of the brain's activities) and a custom audio-visual, hypnogogic sensory experience for Hendrick's at the Edinburgh Festival 2015. <a href="http://tenhertz.com/hendricks/43-hendricks-edinburgh-festival-2015">More info</a>
+
+---
